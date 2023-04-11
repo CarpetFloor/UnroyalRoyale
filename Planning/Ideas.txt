@@ -1,0 +1,47 @@
+-2D pixel art
+-Map is medium sized, and not a lot of open areas
+-Many buildings (explained below) with loot (explained below)
+-Map
+    >Most likely a city, but could also be a suburb
+    >Multiple buildings are scattered around, meaning that there really is only a couple large open areas
+    >Buildings can be entered, but the player is NOT transported to another instance of the world
+    >Some buildings have multiple floors
+    >Entire map is randomly generated each match
+-Multiplayer system:
+    >There are only 2 lobbies, the game lobby and the waiting lobby
+    >When joining, if the match has already started, player will have to wait until the match is over, but is able to spectate the match by watching a specific player, and can switch between which player they are spectating
+    >Possbily change this system, but this seems like it would be the easiest implementation considering the expected traffic will be low
+-Really good loot is airdropped in a couple times throughout match (explained below)
+-Each match should only last a maxiumum of 5 minutes
+-Play area shrinks over time, which is how the time limit for match is set
+-Combat should be difficult in the senese that weapons have high recoil and take some time to reload
+-It should only take at most roughly somewhere betweeen 5 and 8 bullets to eliminate someone, but without armor and with a decent weapon, it can be as low as like 2 bullets, but only 1 bullet from any weapon to the head (unless a helmet is worn, which is explained below)
+-Ammo is not super common, so players will have to coserve ammo
+-Players are not able to carry much on them, so have to manage inventory
+-When taking damage, players will start to bleed out, and the more damage they take the more they bleed out
+    >The player will continually lose health over time, loosing more health the more damage they have taken
+    >To stop bleeding, the player has to apply bandages, but will have to apply more bandages the more damaged they are
+-Weapons are modern
+-There is body armor, and helmets
+    >Body armor lets players take more shots, number of shots dependent on the armor type, to anywhere other than the head before being eliminated, but slows them down
+    >Helmets let players take more shots, dependent on the armor type, to the head
+-Loot
+    >Only found in small quantities at a time
+    >Only found in buildings or air drops
+    >Possiblilites include
+        +Weapon(s)
+        +Ammo
+        +Armor
+        +Bandage(s)
+        +Health Pack
+    >Air drops contain much more loot, and better quality stuff (meaning better weapons and armor)
+-Inventory
+    >Every item has a space and weight value
+        +The total amount of stuff players can carry is based on the space (they are givena total number of space points)
+        +The weight value determines how much it slows the player down by (although default movement without weight should not be too fast, and movement with max weight should not be too slow)
+-Weapons
+    >Each weapon requires a specific type of ammo, but there are only like 3 total types of ammo
+    >There are not explosives
+-Atmosphere
+    >Daytime, but cloudy and not very bright out
+    >Firing weapons creates very bright muzzle flashes

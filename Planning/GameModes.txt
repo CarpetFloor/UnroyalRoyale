@@ -1,0 +1,4 @@
+-Single player mode
+    +Play against bots
+-Multiplayer mode
+    +No bots
