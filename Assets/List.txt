@@ -1,0 +1,29 @@
+-Font https://kenney.nl/assets/kenney-fonts
+-Interior https://shubibubi.itch.io/cozy-interior
+-GUI https://crusenho.itch.io/complete-gui-essential-pack
+-Interior https://limezu.itch.io/moderninteriors
+-Food https://henrysoftware.itch.io/pixel-food
+-Character Animations https://zegley.itch.io/2d-platformermetroidvania-asset-pack
+-Font https://managore.itch.io/m5x7
+-Font (preferred) https://datagoblin.itch.io/monogram
+-Character https://szadiart.itch.io/rpg-main-character
+-Weapons https://arcadeisland.itch.io/guns-asset-pack-v1
+-Character https://malibudarby.itch.io/hc-battlers-archive-content
+-Map https://seliel-the-shaper.itch.io/autumn-forest
+-Weapons https://jestan.itch.io/weapons-pack
+-Map https://aamatniekss.itch.io/topdown-fantasy-forest
+-Effects https://limofeus.itch.io/pixel-simulations
+-Effects https://jasontomlee.itch.io/blood-fx
+-Character https://jeresikstus.itch.io/zombie-characters-32x32
+-Character Animations https://trevor-pupkin.itch.io/action-rpg-character-templates
+-Weapons https://mtk.itch.io/grenades-16x16
+-Effects (preferred) https://nyknck.itch.io/pixelfx052
+-GUI https://hoonius.itch.io/waste-no-space-gui
+-GUI https://sungraphica.itch.io/flat-game-user-interface-asset-pack
+-Items (preferred) https://ipixl.itch.io/pixel-art-items-part-1
+-Weapons (preferred) https://munstudios.itch.io/2d-pixel-guns-pack
+-Inventory Icons https://jehal.itch.io/24-survival-pixel-art-icons
+-Effects https://xyezawr.itch.io/free-pixel-effects-pack-4-explosions
+-Effects https://xyezawr.itch.io/gif-free-pixel-effects-pack-5-blood-effects
+-Effects https://pimen.itch.io/pixel-battle-effects
+-Weapons (second place) https://vladpenn.itch.io/weapon
