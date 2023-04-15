@@ -1,12 +1,12 @@
 -2D pixel art
--Map is medium sized, and not a lot of open areas
 -Many buildings (explained below) with loot (explained below)
 -Map
     >Most likely a city, but could also be a suburb
     >Multiple buildings are scattered around, meaning that there really is only a couple large open areas
-    >Buildings can be entered, but the player is NOT transported to another instance of the world
+    >Buildings can be entered, but the player is NOT transported to another instance
     >Some buildings have multiple floors
     >Entire map is randomly generated each match
+    >Map size scales based off of the number of players when the game starts
 -Multiplayer system:
     >There are only 2 lobbies, the game lobby and the waiting lobby
     >When joining, if the match has already started, player will have to wait until the match is over, but is able to spectate the match by watching a specific player, and can switch between which player they are spectating
@@ -44,4 +44,7 @@
     >There are not explosives
 -Atmosphere
     >Daytime, but cloudy and not very bright out
+    >Raining
+    >Vignette
+    >Film grain
     >Firing weapons creates very bright muzzle flashes
