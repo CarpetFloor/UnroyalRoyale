@@ -48,3 +48,4 @@
     >Vignette
     >Film grain
     >Firing weapons creates very bright muzzle flashes
+-Use a lighting/ view system in which the player can only see where they are aiming (possibly move the camera too, but that might not work)
